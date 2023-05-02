@@ -1,4 +1,6 @@
 # 𝐏𝐢𝐧𝐠 𝐏𝐨𝐧𝐠 𝐆𝐚𝐦𝐞 🚀
+
+Hosted Link - https://ritesh-shekhar.github.io/pingpong/
  
 <br/>
 
@@ -42,5 +44,5 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 >
 > 
 
-> [LinkedIn](https://www.linkedin.com/in/saurabhdixit93/)
+> [LinkedIn](https://www.linkedin.com/in/ritesh-kumar9972)
 I hope you like the project. Thanks for reading :)
